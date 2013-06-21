@@ -4,8 +4,8 @@ Welcome to the AVT Annotation Database API&trade; Project!
 The Algorithm Validation Toolkit&trade; (AVT&trade;) Open Source project is a set
 of tools that facilitate the testing and statistical comparison of image processing
 algorithms.  It is built upon the
-[eXtensible Imaging Platform&trade; (XIP&trade;)](http://www.OpenXIP.org)
-framework for developing image processing, and can create and consume objects based
+[eXtensible Imaging Platform&trade; (XIP&trade;)](http://www.OpenXIP.org) development
+framework, and can create and consume objects based
 on [AIM (Annotation and Image Markup] (https://github.com/NCIP/annotation-and-image-markup)
 models.  
 
